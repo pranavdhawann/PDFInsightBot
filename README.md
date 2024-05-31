@@ -21,13 +21,15 @@ Requirements:
 Installation:
 1. Clone the repository:
     git clone https://github.com/yourusername/PDFInsightBot.git
+   
     cd PDFInsightBot
-2. Create a virtual environment:
+3. Create a virtual environment:
     python3 -m venv env
+   
     source env/bin/activate  # On Windows use `env\Scripts\activate`
-3. Install dependencies:
+5. Install dependencies:
     pip install -r requirements.txt
-4. Run the Streamlit app:
+6. Run the Streamlit app:
     streamlit run app.py
 
 Future Work:
