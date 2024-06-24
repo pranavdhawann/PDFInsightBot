@@ -7,7 +7,7 @@ It utilizes the capabilities of Natural Language Processing (NLP), Retreival Aug
   - [Features](#features)
   - [Mistral](#about-mistral)
   - [Requirements](#requirements)
-  - [Installation](#installation)
+  - [Usage](#usage)
   - [Future Work](#future-work)
 
 ## Features
@@ -27,11 +27,10 @@ Mistral is a state-of-the-art language model used in PDFInsightBot for generatin
 6. Ollama
 7. Mistral (Language model used for embeddings and responses)
    
-## Installation
-
+## Usage
 1. Clone the repository:
    ```
-    git clone https://github.com/yourusername/PDFInsightBot.git
+    git clone https://github.com/pranavdhawann/PDFInsightBot.git
     cd PDFInsightBot
    ```
 2. Create a virtual environment:
